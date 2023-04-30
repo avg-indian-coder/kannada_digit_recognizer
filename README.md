@@ -1,2 +1,4 @@
 # kannada_digit_recognizer
-Simple CNN to recognize Kannada digits
+CNN to recognize Kannada digits.
+
+Achieved an accuracy of `0.98467` in the hidden test dataset.
